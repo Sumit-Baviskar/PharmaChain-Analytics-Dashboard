@@ -1,4 +1,4 @@
-#  :chart_with_upwards_trend: **Pharmacy Supply Chain Dashboard ( Excel Project )** :chart_with_upwards_trend:
+#  :chart_with_upwards_trend: **Pharmacy Supply Chain Dashboard (Excel Project)** :chart_with_upwards_trend:
 
 
 # :paperclip: **Introduction :** 
@@ -10,7 +10,7 @@ The analysis reveals significant achievements, such as total revenue surpassing 
 The following recommendations are designed to provide actionable strategies that leverage the company's current successes while addressing key challenges. These suggestions focus on optimizing operational costs, expanding market share, improving product mix profitability, enhancing team performance, and sustaining the impressive revenue growth seen in recent years.
 
 
-# **Purpose of the project :**
+# :green_book: **Purpose of the project :** :green_book:
 
 The Pharma Supply Chain Dashboard Analysis was designed to provide a comprehensive view of the operational and financial performance of a pharmaceutical supply chain. The purpose of this project is to harness data visualization and analytics to support data-driven decision-making and optimize business processes.
 
@@ -41,7 +41,7 @@ The overarching goal is to help the organization make informed decisions to impr
 
 
 
-# **Business Question:**
+# :green_book: **Business Question:** :green_book:
 
 #### **1. What is the total revenue generated across all years in the pharma supply chain?**
 
@@ -74,7 +74,7 @@ The overarching goal is to help the organization make informed decisions to impr
 #### **15. Which medical sales representative has the highest total sales over the years?**
 
 
-# **Data Cleaning and Transformation Process :**
+# :green_book: **Data Cleaning and Transformation Process :** :green_book:
 
 
 ![Screen Shot 2024-11-29 at 7 44 35 PM](https://github.com/user-attachments/assets/2489ee27-3bed-4de8-9740-9a6763e84bf5)
@@ -214,13 +214,12 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-
 #### ☑️**11. Which order priority yields the highest profit margin?**
 
 - **Insights :**
      - Profit margins by order priority:
-     - Medium Priority: ₹52,375.08 (highest).
-     - Low Priority: ₹26,233.40.
+     - Low Priority: ₹52,375.08 (highest).
+     - Medium Priority: ₹26,233.40.
      -  High Priority: ₹18,649.97.
      - Critical Priority: ₹9,585.69 (lowest).
 
@@ -230,33 +229,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-#### ☑️**12. Which product container type (Jumbo Pack, Large Pack, Medium Pack, Small Pack) generates the highest profit margin?**
-
-- **Insinghts :** Jumbo Packs generate the highest profit margin (₹34,751.07), while Large and Medium Packs contribute moderately, and Small Packs (₹31,874.45) show better-than-expected profitability.
-
-- **Recommendation :** Focus on increasing sales of Jumbo Packs by promoting bulk purchase discounts or targeting customers with high-volume requirements. Simultaneously, assess the surprising profitability of Small Packs to determine if pricing adjustments or targeted marketing can further boost this segment.
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-
-#### ☑️**13. Which state (Maharashtra, Kolkata, Delhi) has shown the highest revenue growth over the years?**
-
-- **Insights :**
-  - Revenue trends by state (2019-2024):
-    - **Maharashtra :** Consistently the top revenue-generating state, with a significant peak in 2024.
-    - **Kolkata :** Moderate revenue growth, with notable increases in recent years.
-    - ****Delhi :** Lowest revenue growth among the three states but still shows consistent improvement.
-
-- Maharashtra consistently leads in revenue, with a significant surge in 2024, indicating a potential growth hotspot. Kolkata shows steady growth, while Delhi remains stable but less impactful, suggesting room for expansion efforts.
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-
-#### ☑️**14. What are the top 10 products generating the highest revenue, and what is their contribution?**
+#### ☑️**12. What are the top 10 products generating the highest revenue, and what is their contribution?**
 
 - **Insights :**
 
@@ -284,39 +257,16 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 - **Recommendation :** Diversify revenue streams by identifying and promoting potential high-growth products outside the top 10. Similarly, explore untapped markets or states to reduce dependency on Maharashtra. Conduct customer segmentation analysis to identify emerging needs and tailor product offerings to capture a broader market share.
 
+
+# :green_book: **Dashboard :** :green_book:
+
+![Screen Shot 2025-01-09 at 10 45 47 PM](https://github.com/user-attachments/assets/97acea19-ee10-492a-978a-0a534bd29519)
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ☑️**15. Which medical sales representative has the highest total sales over the years?**
-
-- **Insights :**
-  - Sales performance by representatives (2019-2024):
-
-  - **Top Performer :** Aarav Patel, with a total sales of ₹331,830.42 over six years.
-  - **Notable Performers :** Aditi Kapoor, Anjali Mehta, and Arjun Desai, each contributing over ₹190,000.
-  - **Least Performer :** Sanjay Joshi, with a total of ₹16,913.48.
-
- - A diverse range of performance is seen, with some representatives far exceeding others.
-
-
-- **Recommendation :** Implement a performance management system to regularly track and analyze individual sales contributions. Offer tailored training programs to underperforming representatives and assess whether they require additional support, such as better leads or marketing collateral. Reward top performers with incentives to sustain motivation and drive continued success
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-# **Dashboard :**
-
-
-
-# ** Screenshots :**
-
-
-
-
-
-
-
-# **Final Recommendations :**
+# :green_book: **Final Recommendations :**:green_book: 
 
 #### **1.Optimize Shipping and Order Fulfillment Costs :**
 - Reduce reliance on high-cost delivery modes like Delivery Trucks by optimizing logistics routes and shifting lighter shipments to Regular Air. Address inefficiencies in handling critical orders by streamlining processes and introducing premium pricing to enhance profitability.
