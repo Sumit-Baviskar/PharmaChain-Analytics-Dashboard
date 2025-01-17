@@ -67,7 +67,7 @@ The overarching goal is to help the organization make informed decisions to impr
 
 #### **12. Which product container type (Jumbo Pack, Large Pack, Medium Pack, Small Pack) generates the highest profit margin?**
 
-#### **13. Overall order quantity trends over the sales period  ?
+#### **13. Overall order quantity trends over the sales period  ?**
 
 
 # :green_book: **Data Cleaning and Transformation Process :** :green_book:
