@@ -1,4 +1,4 @@
-#  :chart_with_upwards_trend: **Pharmacy Supply Chain Dashboard (Excel Project)** :chart_with_upwards_trend:
+#  :chart_with_upwards_trend: **PharmaChain Analytics Dashboard (Excel Project)** :chart_with_upwards_trend:
 
 
 # :paperclip: **Introduction :** 
