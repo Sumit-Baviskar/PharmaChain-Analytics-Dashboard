@@ -119,7 +119,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 # :paperclip: **Business Solution :**  
 
 
-#### ✅**1. What is the total revenue generated across all years in the pharma supply chain?**
+#### ✅ **1. What is the total revenue generated across all years in the pharma supply chain?**
 
 - **Insights :** The total revenue generated is ₹2,932,881.34, reflecting the cumulative sales from all products and years.
 
@@ -128,7 +128,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-#### ✅**2.  How many total orders have been processed?**
+#### ✅ **2.  How many total orders have been processed?**
 
 - **Insights :** With 88,201 orders processed, the volume reflects high operational activity. The business might explore whether efficiency or cost savings can improve with such a large order count.
 
@@ -138,7 +138,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-#### ✅*3.  What is the overall profit margin achieved by the company?**
+#### ✅ *3.  What is the overall profit margin achieved by the company?**
 - **Insights :** A profit margin of ₹106,844.14 indicates that while the company is profitable, the profit percentage relative to revenue could be evaluated for improvement.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -146,7 +146,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-#### ✅**4. What is the total cost incurred for shipping products?**
+#### ✅ **4. What is the total cost incurred for shipping products?**
 - **Insights :** Shipping cost of ₹20,281.73 suggests that logistics is a notable expense. Exploring cost-effective shipping methods, especially for the highest-cost mode (Delivery Truck), might yield savings.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -154,14 +154,15 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-#### ✅**5. How many customers are served in total?**
+#### ✅ **5. How many customers are served in total?**
 - **Insights :** Serving 3,347 customers demonstrates a robust customer base. Strategies to retain existing customers and acquire new ones could further boost revenue.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ✅**6. How has the revenue trend varied from 2019 to 2024?**
+#### ✅ **6. How has the revenue trend varied from 2019 to 2024?**
+
 - **Insights :**
   - **Revenue trends across years:**
     - 2019: Moderate revenue growth.
@@ -176,7 +177,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ✅**7. Which product category contributes the most to the revenue, and by what percentage?**
+#### ✅ **7. Which product category contributes the most to the revenue, and by what percentage?**
 - **Insights :** Pharmaceuticals contribute 43% of total revenue, making it the largest revenue driver, followed by Consumables (30%) and Medical Equipment (27%). This product distribution highlights the reliance on pharmaceuticals, but other categories also show growth potential.
 
 - **Recommendation :** Continue investing in the pharmaceutical product line to maintain leadership in this segment. Simultaneously, allocate resources to grow the Medical Equipment and Consumables categories by introducing innovative products or marketing strategies to target specific customer needs. This balanced approach will help mitigate risks associated with over-dependence on a single category.
@@ -185,7 +186,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ✅**8. Which order priority (Critical, High, Medium, Low) handles the highest quantity of orders?**
+#### ✅ **8. Which order priority (Critical, High, Medium, Low) handles the highest quantity of orders?**
 
 - **Insights :**
   - Orders handled by priority:
@@ -199,7 +200,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-#### ✅**9. Which state (Delhi, Kolkata, Maharashtra) has the largest share of customers, and how are they distributed?**
+#### ✅ **9. Which state (Delhi, Kolkata, Maharashtra) has the largest share of customers, and how are they distributed?**
 
 - **Insights :**
   - Customer distribution is fairly even among Delhi (34%), Kolkata (34%), and Maharashtra (32%), indicating a balanced presence.
@@ -208,7 +209,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ✅**10. What is the average shipping cost for different modes of transportation (Delivery Truck, Express Air, Regular Air)?**
+#### ✅ **10. What is the average shipping cost for different modes of transportation (Delivery Truck, Express Air, Regular Air)?**
 
 - Average shipping costs by mode:
   - Delivery Truck: ₹38.46 (highest cost).
@@ -222,7 +223,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-#### ✅**11. Which order priority yields the highest profit margin?**
+#### ✅ **11. Which order priority yields the highest profit margin?**
 
 - **Insights :**
      - Profit margins by order priority:
@@ -237,7 +238,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ✅**12. What are the top 10 products generating the highest revenue, and what is their contribution?**
+#### ✅ **12. What are the top 10 products generating the highest revenue, and what is their contribution?**
 
 - **Insights :**
 
@@ -269,10 +270,10 @@ These transformations ensured that the dataset was clean, accurate, and structur
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ✅**13. Overall order quantity trends over the sales period ?**
+#### ✅ **13. Overall order quantity trends over the sales period ?**
 
 
-- **Insights for Order Quantity Trends**
+- **Insights :**
    
 1. **Seasonal Patterns:** The graph indicates periodic spikes and dips in order quantities, suggesting a seasonal demand pattern. For instance, higher order volumes might correspond to festive or promotional periods.
 
@@ -287,7 +288,8 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-- **Recommendations for Order Quantity Trends**  
+- **Recommendations :**
+  
 1. **Plan Seasonal Promotions:** Leverage identified high-demand periods by introducing targeted marketing campaigns or discounts to maximize sales during peak seasons.
 
 
