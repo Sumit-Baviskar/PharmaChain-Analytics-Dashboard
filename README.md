@@ -1,6 +1,18 @@
 #  🛠️ :chart_with_upwards_trend: **PharmaChain Analytics Dashboard (Excel Project)** :chart_with_upwards_trend:🛠️
 
 
+# 🧑‍⚕️  Problem Statement: 🧑‍⚕️
+
+The pharmaceutical supply chain plays a vital role in the timely delivery of essential products to healthcare providers and consumers. However, inefficiencies in the process, such as high shipping costs, fluctuating revenues, and inconsistent product performance across regions and order priorities, have been impacting profitability and operational effectiveness.
+
+This project aims to analyze the data from the pharmaceutical supply chain to gain insights into key metrics like revenue trends, shipping costs, product performance, and regional demand. The goal is to identify areas of improvement, optimize operational efficiency, and provide data-driven recommendations to enhance profitability, streamline shipping logistics, and support informed decision-making for future growth.
+
+By leveraging data visualization and advanced analytics, this project will provide the company with actionable insights into the performance of its supply chain, thereby enabling strategic improvements and helping to drive sustainable business growth.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # 📁🧪  **Introduction :**  📁🧪 
 
 The pharmaceutical supply chain is a critical component of the healthcare industry, ensuring the timely delivery of essential products such as medical equipment, consumables, and pharmaceuticals to customers. The provided dashboard offers a comprehensive overview of key business metrics, such as revenue trends, order priorities, profit margins, shipping costs, and product performance. These insights are vital for understanding operational efficiency, identifying growth opportunities, and addressing areas that require improvement.
