@@ -260,8 +260,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 # :green_book: **Dashboard :** :green_book:
 
-![Screen Shot 2025-01-09 at 10 45 47 PM](https://github.com/user-attachments/assets/97acea19-ee10-492a-978a-0a534bd29519)
-
+![Image](https://github.com/user-attachments/assets/141d11ff-ee48-46b6-89fa-a68bc06c66e9)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
