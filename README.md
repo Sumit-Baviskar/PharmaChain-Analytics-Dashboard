@@ -1,7 +1,7 @@
-#  :chart_with_upwards_trend: **PharmaChain Analytics Dashboard (Excel Project)** :chart_with_upwards_trend:
+#  🛠️ :chart_with_upwards_trend: **PharmaChain Analytics Dashboard (Excel Project)** :chart_with_upwards_trend:🛠️
 
 
-# :paperclip: **Introduction :** 
+# 📁🧪  **Introduction :**  📁🧪 
 
 The pharmaceutical supply chain is a critical component of the healthcare industry, ensuring the timely delivery of essential products such as medical equipment, consumables, and pharmaceuticals to customers. The provided dashboard offers a comprehensive overview of key business metrics, such as revenue trends, order priorities, profit margins, shipping costs, and product performance. These insights are vital for understanding operational efficiency, identifying growth opportunities, and addressing areas that require improvement.
 
@@ -10,7 +10,7 @@ The analysis reveals significant achievements, such as total revenue surpassing 
 The following recommendations are designed to provide actionable strategies that leverage the company's current successes while addressing key challenges. These suggestions focus on optimizing operational costs, expanding market share, improving product mix profitability, enhancing team performance, and sustaining the impressive revenue growth seen in recent years.
 
 
-# :green_book: **Purpose of the project :** :green_book:
+# :green_book:🌟 **Purpose of the project :** :green_book:🌟
 
 The Pharma Supply Chain Dashboard Analysis was designed to provide a comprehensive view of the operational and financial performance of a pharmaceutical supply chain. The purpose of this project is to harness data visualization and analytics to support data-driven decision-making and optimize business processes.
 
@@ -41,7 +41,7 @@ The overarching goal is to help the organization make informed decisions to impr
 
 
 
-# :green_book: **Business Question:** :green_book:
+# ⏳ **Business Question:** ⏳
 
 #### **1. What is the total revenue generated across all years in the pharma supply chain?**
 
@@ -67,11 +67,7 @@ The overarching goal is to help the organization make informed decisions to impr
 
 #### **12. Which product container type (Jumbo Pack, Large Pack, Medium Pack, Small Pack) generates the highest profit margin?**
 
-#### **13. Which state (Maharashtra, Kolkata, Delhi) has shown the highest revenue growth over the years?**
-
-#### **14. What are the top 10 products generating the highest revenue, and what is their contribution?**
-
-#### **15. Which medical sales representative has the highest total sales over the years?**
+#### **13. Overall order quantity trends over the sales period  ?
 
 
 # :green_book: **Data Cleaning and Transformation Process :** :green_book:
@@ -111,7 +107,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 # :paperclip: **Business Solution :**  
 
 
-#### ☑️**1. What is the total revenue generated across all years in the pharma supply chain?**
+#### ✅**1. What is the total revenue generated across all years in the pharma supply chain?**
 
 - **Insights :** The total revenue generated is ₹2,932,881.34, reflecting the cumulative sales from all products and years.
 
@@ -120,7 +116,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-#### ☑️**2.  How many total orders have been processed?**
+#### ✅**2.  How many total orders have been processed?**
 
 - **Insights :** With 88,201 orders processed, the volume reflects high operational activity. The business might explore whether efficiency or cost savings can improve with such a large order count.
 
@@ -130,7 +126,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-#### ☑️*3.  What is the overall profit margin achieved by the company?**
+#### ✅*3.  What is the overall profit margin achieved by the company?**
 - **Insights :** A profit margin of ₹106,844.14 indicates that while the company is profitable, the profit percentage relative to revenue could be evaluated for improvement.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -138,7 +134,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-#### ☑️**4. What is the total cost incurred for shipping products?**
+#### ✅**4. What is the total cost incurred for shipping products?**
 - **Insights :** Shipping cost of ₹20,281.73 suggests that logistics is a notable expense. Exploring cost-effective shipping methods, especially for the highest-cost mode (Delivery Truck), might yield savings.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
@@ -146,14 +142,14 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-#### ☑️**5. How many customers are served in total?**
+#### ✅**5. How many customers are served in total?**
 - **Insights :** Serving 3,347 customers demonstrates a robust customer base. Strategies to retain existing customers and acquire new ones could further boost revenue.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ☑️**6. How has the revenue trend varied from 2019 to 2024?**
+#### ✅**6. How has the revenue trend varied from 2019 to 2024?**
 - **Insights :**
   - **Revenue trends across years:**
     - 2019: Moderate revenue growth.
@@ -168,7 +164,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ☑️**7. Which product category contributes the most to the revenue, and by what percentage?**
+#### ✅**7. Which product category contributes the most to the revenue, and by what percentage?**
 - **Insights :** Pharmaceuticals contribute 43% of total revenue, making it the largest revenue driver, followed by Consumables (30%) and Medical Equipment (27%). This product distribution highlights the reliance on pharmaceuticals, but other categories also show growth potential.
 
 - **Recommendation :** Continue investing in the pharmaceutical product line to maintain leadership in this segment. Simultaneously, allocate resources to grow the Medical Equipment and Consumables categories by introducing innovative products or marketing strategies to target specific customer needs. This balanced approach will help mitigate risks associated with over-dependence on a single category.
@@ -177,7 +173,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ☑️**8. Which order priority (Critical, High, Medium, Low) handles the highest quantity of orders?**
+#### ✅**8. Which order priority (Critical, High, Medium, Low) handles the highest quantity of orders?**
 
 - **Insights :**
   - Orders handled by priority:
@@ -191,7 +187,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-#### ☑️**9. Which state (Delhi, Kolkata, Maharashtra) has the largest share of customers, and how are they distributed?**
+#### ✅**9. Which state (Delhi, Kolkata, Maharashtra) has the largest share of customers, and how are they distributed?**
 
 - **Insights :**
   - Customer distribution is fairly even among Delhi (34%), Kolkata (34%), and Maharashtra (32%), indicating a balanced presence.
@@ -200,7 +196,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ☑️**10. What is the average shipping cost for different modes of transportation (Delivery Truck, Express Air, Regular Air)?**
+#### ✅**10. What is the average shipping cost for different modes of transportation (Delivery Truck, Express Air, Regular Air)?**
 
 - Average shipping costs by mode:
   - Delivery Truck: ₹38.46 (highest cost).
@@ -214,7 +210,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
-#### ☑️**11. Which order priority yields the highest profit margin?**
+#### ✅**11. Which order priority yields the highest profit margin?**
 
 - **Insights :**
      - Profit margins by order priority:
@@ -229,7 +225,7 @@ These transformations ensured that the dataset was clean, accurate, and structur
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### ☑️**12. What are the top 10 products generating the highest revenue, and what is their contribution?**
+#### ✅**12. What are the top 10 products generating the highest revenue, and what is their contribution?**
 
 - **Insights :**
 
@@ -258,14 +254,54 @@ These transformations ensured that the dataset was clean, accurate, and structur
 - **Recommendation :** Diversify revenue streams by identifying and promoting potential high-growth products outside the top 10. Similarly, explore untapped markets or states to reduce dependency on Maharashtra. Conduct customer segmentation analysis to identify emerging needs and tailor product offerings to capture a broader market share.
 
 
-# :green_book: **Dashboard :** :green_book:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#### ✅**13. Overall order quantity trends over the sales period ?**
+
+
+- **Insights for Order Quantity Trends**
+   
+1. **Seasonal Patterns:** The graph indicates periodic spikes and dips in order quantities, suggesting a seasonal demand pattern. For instance, higher order volumes might correspond to festive or promotional periods.
+
+
+
+2. **Demand Fluctuations:** Significant variability in order quantities could imply changing customer preferences, market trends, or external factors impacting purchasing behavior.
+
+
+
+
+3. **Consistent Low-Volume Periods:** Certain periods consistently exhibit low order quantities, signaling potential inefficiencies or untapped opportunities in those time frames.  
+
+
+
+- **Recommendations for Order Quantity Trends**  
+1. **Plan Seasonal Promotions:** Leverage identified high-demand periods by introducing targeted marketing campaigns or discounts to maximize sales during peak seasons.
+
+
+
+
+2. **Inventory Optimization:** Use demand patterns to align inventory levels with expected order quantities, minimizing overstocking or stockouts.
+
+
+
+
+
+3. **Address Low-Volume Periods:** Investigate factors causing low order quantities and introduce strategies like promotional offers, partnerships, or product diversification to stimulate demand.  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# 💡🖼️  **Dashboard :** 💡🖼️
 
 ![Image](https://github.com/user-attachments/assets/141d11ff-ee48-46b6-89fa-a68bc06c66e9)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# :green_book: **Final Recommendations :**:green_book: 
+# 🚀 **Final Recommendations :** 🚀
 
 #### **1.Optimize Shipping and Order Fulfillment Costs :**
 - Reduce reliance on high-cost delivery modes like Delivery Trucks by optimizing logistics routes and shifting lighter shipments to Regular Air. Address inefficiencies in handling critical orders by streamlining processes and introducing premium pricing to enhance profitability.
@@ -286,12 +322,13 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 
 
-# :paperclip: **Conclusion :** 
+# 📖 **Conclusion :** 📖
 
 The analysis of the dashboard highlights both the strengths and challenges faced by the pharmaceutical supply chain business. With a total revenue exceeding ₹2.9 million and a well-distributed customer base, the company has demonstrated its ability to cater to a diverse market effectively. High-performing products like Hazardous Waste Bags and Scalpel Blades, coupled with Maharashtra's significant contribution to revenue, underscore the company's strong market positioning.
 
