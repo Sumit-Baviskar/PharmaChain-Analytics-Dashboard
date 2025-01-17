@@ -274,34 +274,36 @@ These transformations ensured that the dataset was clean, accurate, and structur
 
 
 - **Insights :**
-   
-1. **Seasonal Patterns:** The graph indicates periodic spikes and dips in order quantities, suggesting a seasonal demand pattern. For instance, higher order volumes might correspond to festive or promotional periods.
+
+    - **Seasonal Patterns:** The graph indicates periodic spikes and dips in order quantities, suggesting a seasonal demand pattern. For instance, higher order volumes might correspond to festive or promotional periods.
 
 
 
-2. **Demand Fluctuations:** Significant variability in order quantities could imply changing customer preferences, market trends, or external factors impacting purchasing behavior.
+    - **Demand Fluctuations:** Significant variability in order quantities could imply changing customer preferences, market trends, or external factors impacting purchasing behavior.
 
 
 
 
-3. **Consistent Low-Volume Periods:** Certain periods consistently exhibit low order quantities, signaling potential inefficiencies or untapped opportunities in those time frames.  
+    - **Consistent Low-Volume Periods:** Certain periods consistently exhibit low order quantities, signaling potential inefficiencies or untapped opportunities in those time frames.  
 
 
 
 - **Recommendations :**
-  
-1. **Plan Seasonal Promotions:** Leverage identified high-demand periods by introducing targeted marketing campaigns or discounts to maximize sales during peak seasons.
 
-
-
-
-2. **Inventory Optimization:** Use demand patterns to align inventory levels with expected order quantities, minimizing overstocking or stockouts.
+ 
+    -  **Plan Seasonal Promotions:** Leverage identified high-demand periods by introducing targeted marketing campaigns or discounts to maximize sales during peak seasons.
 
 
 
 
 
-3. **Address Low-Volume Periods:** Investigate factors causing low order quantities and introduce strategies like promotional offers, partnerships, or product diversification to stimulate demand.  
+    -  **Inventory Optimization:** Use demand patterns to align inventory levels with expected order quantities, minimizing overstocking or stockouts.
+
+
+
+
+
+    - **Address Low-Volume Periods:** Investigate factors causing low order quantities and introduce strategies like promotional offers, partnerships, or product diversification to stimulate demand.  
 
 
 
